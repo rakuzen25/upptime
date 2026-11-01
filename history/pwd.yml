@@ -1,7 +1,7 @@
 url: $PWD_URL
-status: down
-code: 523
-responseTime: 3181
-lastUpdated: 2026-11-01T01:51:09.823Z
+status: up
+code: 200
+responseTime: 401
+lastUpdated: 2026-11-01T22:42:06.749Z
 startTime: 2026-10-20T19:34:29.415Z
 generator: Upptime <https://github.com/upptime/upptime>
